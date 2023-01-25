@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Software Engineer excited about web and hybrid app development and building out full stack applications using Electron, React, and Node.js
+Co-creator of DataDoc—an open-source dev tool for monitoring and visualizing performance metrics and vitals for APIs and Express applications
+
 <!--
 **JH51/JH51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
