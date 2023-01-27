@@ -20,9 +20,8 @@ Co-creator of DataDoc—an open-source devtool for monitoring and visualizing pe
 
 </details>
 
-<!-- ![JH51's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH51&show_icons=true&theme=transparent&count_private=true) -->
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=JH51&theme=transparent&include_all_commits=true&show_icons=true&count_private=true&hide=stars,issues) -->
 
-<!-- [![JH51's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH51)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **JH51/JH51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
