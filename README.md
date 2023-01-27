@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm a Software Engineer excited about web and hybrid app development and building out full stack applications using Electron, React, and Node.js
+Software Engineer excited about web and hybrid app development and building scalable full stack applications with Electron, React, and Node.js
 
 Co-creator of DataDoc—an open-source dev tool for monitoring and visualizing performance metrics and vitals for APIs and Express applications
 
