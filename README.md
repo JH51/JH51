@@ -1,4 +1,4 @@
-Software Engineer excited about web and hybrid app development and building scalable full stack applications with Electron <img src="https://static-00.iconduck.com/assets.00/electron-icon-472x512-8swdbwbh.png" height="14">, React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" height="14">, and Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png?20170401104355" height="14">
+Software Engineer building scalable web and hybrid full stack applications using Electron <img src="https://static-00.iconduck.com/assets.00/electron-icon-472x512-8swdbwbh.png" height="14">, React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" height="14">, and Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png?20170401104355" height="14">
 
 Co-creator of DataDoc—an open-source devtool for monitoring and visualizing performance metrics and vitals for APIs and Express applications
 
